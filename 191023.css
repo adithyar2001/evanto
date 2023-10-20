@@ -1,0 +1,10 @@
+.container-fluid{
+    margin-top: 50px!important;
+}
+.main-space{
+    margin-bottom: 100px;
+}
+li{
+    list-style-type: none;
+    padding-bottom: 5px;
+}
